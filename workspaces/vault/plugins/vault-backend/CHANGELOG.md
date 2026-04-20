@@ -1,5 +1,11 @@
 # @backstage-community/plugin-vault-backend
 
+## 0.21.1
+
+### Patch Changes
+
+- d8730d8: Correctly load schedule configuration for token renewal tasks.
+
 ## 0.21.0
 
 ### Minor Changes
